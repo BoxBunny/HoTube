@@ -1,0 +1,19 @@
+{
+  "name": "hotube",
+  "version": "1.0.0",
+  "description": "Cloning YouTube with Vanilla and NodeJS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoxBunny/HoTube.git"
+  },
+  "author": "ComSenpai A.K.A JihoHan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BoxBunny/HoTube/issues"
+  },
+  "homepage": "https://github.com/BoxBunny/HoTube#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
