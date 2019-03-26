@@ -10,8 +10,9 @@ Cloning YouTube with Vanilla and NodeJS for Full-Stack
 6. User Authentication like a Boss
 7. Relationships and Route Protection
 
+
 #Front-End
-8. Custom Video Player  
-9. Recording Video with JavaScript  
-10. API + AJAX  
+  8. Custom Video Player  
+  9. Recording Video with JavaScript  
+  10. API + AJAX  
   
