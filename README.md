@@ -21,7 +21,7 @@ Cloning YouTube with Vanilla and NodeJS for Full-Stack
 ## Pages:
 
 - [ ] Home
-- [ ] Join
+- [x] Join
 - [x] Login
 - [x] Search
 - [ ] User Detail
