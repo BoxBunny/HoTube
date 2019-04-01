@@ -18,4 +18,16 @@ Cloning YouTube with Vanilla and NodeJS for Full-Stack
 9. Recording Video with JavaScript  
 10. API + AJAX  
   
+## Pages:
+
+- [ ] Home
+- [ ] Join
+- [x] Login
+- [x] Search
+- [ ] User Detail
+- [ ] Edit Profile
+- [ ] Change Password
+- [ ] Upload
+- [ ] Video Detail
+- [ ] Edit Video
   
