@@ -1,6 +1,15 @@
 import routes from "../routes";
-export const home = (req, res) => {
-  res.render("home", { pageTitle: "Home", videos });
+
+import Video from "../models/Video";
+ //async는 이 함수의 어느 부분은 꼭 기다려야 함을 명시
+export const home = async (req, res) => {
+  try {
+    const videos = await Video.find({}); //다음 과정이 끝날때까지 잠시 기다릴 것
+    res.render("home", { pageTitle: "Home", videos });
+  } catch (error) {
+    console.log(error);
+    res.render("home", { pageTitle: "Home", videos: [] });
+  }
 };
 
 export const search = (req, res) => {
