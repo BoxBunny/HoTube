@@ -23,7 +23,7 @@ export const search = async (req, res) => {
   try {
     videos = await Video.find({
       title: { $regex: searchingBy, $options: "i" }
-    });
+    }); // i : insensitive, 덜 민감한 옵션, 대소문자를 구분하지 않음
   } catch (error) {
     console.log(error);
   }
