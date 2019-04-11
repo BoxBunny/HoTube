@@ -9,7 +9,7 @@ import {
   postLogin
 } from "../controllers/userController";
 
-import { onlyPublic } from "..middlewares";
+import { onlyPublic } from "../middlewares";
 
 const globalRouter = express.Router();
 
