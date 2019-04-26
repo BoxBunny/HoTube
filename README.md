@@ -1,5 +1,5 @@
 # HoTube
-Cloning YouTube with Vanilla and NodeJS for Full-Stack
+Cloning YouTube with vanilaJs and node.js for Full-Stack
 
 # Back-End
 
