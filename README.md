@@ -1,5 +1,5 @@
 # HoTube
-Cloning YouTube with vanilaJs and node.js for Full-Stack
+Cloning YouTube with vanila JS and node.js for Full-Stack
 
 # Back-End
 
@@ -17,17 +17,5 @@ Cloning YouTube with vanilaJs and node.js for Full-Stack
 8. Custom Video Player  
 9. Recording Video with JavaScript  
 10. API + AJAX  
-  
-## Pages:
 
-- [x] Home
-- [x] Join
-- [x] Login
-- [x] Search
-- [x] User Detail
-- [x] Edit Profile
-- [x] Change Password
-- [x] Upload
-- [x] Video Detail
-- [x] Edit Video
-  
+
